@@ -1,0 +1,19 @@
+Welcome to our app! We respect your privacy and are committed to protecting your personal information. This privacy policy outlines how we collect, use, and share your data when you use our app.
+
+User Data Collection: We collect personal information from you when you sign up for our app, including your username, password, and email address. You may also choose to provide additional information such as a profile picture. We only collect the information that is necessary to create and maintain your account and provide you with the services offered through our app.
+
+Use of User Data: We use your personal information to provide you with the services offered through our app, such as the ability to follow other users and create stories together. We may also use your information to communicate with you about app updates, promotions, and other relevant information. We do not share your personal information with any third parties, except as required by law or with your explicit consent.
+
+Image Sharing: Our app allows users to send and receive images. We do not access or store the content of these images, but we do collect metadata such as the date and time the image was sent. This metadata is used to provide you with the services offered through our app.
+
+Profile Images: Our app allows users to change their profile image. These images are stored on our servers, but we do not use them for any purpose other than displaying them on your profile.
+
+Location Data: Our app does not collect or use location data.
+
+Data Security: We take data security seriously and use appropriate measures to protect your personal information. We use industry-standard encryption technologies to protect your data during transmission and storage. However, please be aware that no security measures can provide absolute protection. We cannot guarantee the security of your personal information in the event of an unauthorized intrusion or data breach. We will make reasonable efforts to notify you in the event of a security breach.
+
+Children's Privacy: Our app is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided personal information to our app, please contact us immediately.
+
+Updates to this Policy: We may update this privacy policy from time to time to reflect changes in our practices or to comply with legal requirements. We will notify you of any material changes to this policy through our app or by email.
+
+If you have any questions or concerns about this privacy policy or our data collection practices, please contact us at support@stowri.com.
