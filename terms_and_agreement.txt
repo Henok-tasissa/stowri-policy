@@ -1,25 +1,38 @@
-Terms and Conditions:
+End User License Agreement (EULA)
 
-Welcome to Stowri! These terms and conditions outline the rules and regulations for using our app. By using Stowri, you accept these terms and conditions in full. If you disagree with these terms and conditions or any part of these terms and conditions, you must not use Stowri.
+This End User License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity) and Stowri regarding the use of Stowri, an application that allows users to create and publish stories together. By downloading, installing, or using Stowri, you agree to be bound by the terms and conditions of this Agreement. If you do not agree to the terms and conditions of this Agreement, you must not use Stowri.
 
-User Conduct: You are solely responsible for your conduct while using Stowri. You agree to use Stowri in accordance with all applicable laws and regulations. You agree not to use Stowri for any unlawful purpose, including but not limited to: uploading, posting, or transmitting any content that is harmful, threatening, abusive, harassing, defamatory, obscene, or otherwise objectionable.
+User Conduct
+You are solely responsible for your conduct while using Stowri. You agree to use Stowri in accordance with all applicable laws and regulations. You agree not to use Stowri for any unlawful purpose, including but not limited to: uploading, posting, or transmitting any content that is harmful, threatening, abusive, harassing, defamatory, obscene, or otherwise objectionable.
 
-User Content: You retain all rights to any content you create or upload to Stowri. By using Stowri, you grant us a non-exclusive, worldwide, royalty-free license to use, reproduce, modify, and display your content in connection with Stowri.
+User Content
+You retain all rights to any content you create or upload to Stowri. By using Stowri, you grant us a non-exclusive, worldwide, royalty-free license to use, reproduce, modify, and display your content in connection with Stowri.
 
-Intellectual Property: All intellectual property rights in Stowri and its contents are owned by us or our licensors. You may not reproduce, modify, distribute, or display any part of Stowri or its contents without our prior written consent.
+Intellectual Property
+All intellectual property rights in Stowri and its contents are owned by us or our licensors. You may not reproduce, modify, distribute, or display any part of Stowri or its contents without our prior written consent.
 
-User Accounts: You may only have one account on Stowri. You are responsible for keeping your login information confidential and for all activities that occur under your account.
+User Accounts
+You may only have one account on Stowri. You are responsible for keeping your login information confidential and for all activities that occur under your account.
 
-Termination: We reserve the right to terminate your access to Stowri at any time and for any reason. Upon termination, your account and all user-generated content will be permanently deleted.
+Termination
+We reserve the right to terminate your access to Stowri at any time and for any reason. Upon termination, your account and all user-generated content will be permanently deleted.
 
-Disclaimer: Stowri is provided on an "as is" basis and we make no representations or warranties of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
+Disclaimer
+Stowri is provided on an "as is" basis and we make no representations or warranties of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
 
-Limitation of Liability: In no event shall we be liable for any damages, including but not limited to direct, indirect, incidental, special, or consequential damages, arising out of or in connection with your use of Stowri.
+Limitation of Liability
+In no event shall we be liable for any damages, including but not limited to direct, indirect, incidental, special, or consequential damages, arising out of or in connection with your use of Stowri.
 
-Indemnification: You agree to indemnify, defend, and hold us harmless from any and all claims, damages, liabilities, costs, and expenses arising out of or in connection with your use of Stowri or any violation of these terms and conditions.
+Indemnification
+You agree to indemnify, defend, and hold us harmless from any and all claims, damages, liabilities, costs, and expenses arising out of or in connection with your use of Stowri or any violation of these terms and conditions.
 
-Updates to these Terms: We may update these terms and conditions from time to time. Your continued use of Stowri after any changes to these terms and conditions constitutes your acceptance of the revised terms.
+Updates to these Terms
+We may update these terms and conditions from time to time. Your continued use of Stowri after any changes to these terms and conditions constitutes your acceptance of the revised terms.
 
-Governing Law: These terms and conditions shall be governed by and construed in accordance with the laws of [insert jurisdiction].
+Governing Law
+These terms and conditions shall be governed by and construed in accordance with the laws of District of Columbia.
 
-If you have any questions or concerns about these terms and conditions, please contact us at support@stowri.com.
+EULA Acceptance
+By accepting these terms and conditions, you also agree to be bound by the terms of the Stowri End User License Agreement (EULA).
+
+If you have any questions or concerns about these terms and conditions or the EULA, please contact us at support@stowri.com.
